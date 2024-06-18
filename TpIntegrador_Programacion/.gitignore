@@ -1,0 +1,21 @@
+# Visual Studio / ReSharper
+.vs/
+*.suo
+*.user
+.idea/
+
+# Binarios y archivos de compilación
+bin/
+obj/
+*.pdb
+*.dll
+
+# Archivos de configuración y cache
+App.config
+*.cache
+*.log
+*.bak
+
+# Dependencias de NuGet
+packages/
+
