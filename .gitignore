@@ -29,3 +29,7 @@ TpIntegrador_Programacion/ServiciosVet/obj/
 TpIntegrador_Programacion/ServiciosVet/bin/
 TpIntegrador_Programacion/TpIntegrador_Programacion/obj/
 TpIntegrador_Programacion/TpIntegrador_Programacion/bin/
+
+# Ignorar archivos .dtbcache.json
+*.dtbcache.json
+
