@@ -19,3 +19,15 @@ App.config
 # Dependencias de NuGet
 packages/
 
+# Ignorar la carpeta .vs completa
+TpIntegrador_Programacion/.vs/
+
+# Ignorar los archivos binarios y de depuración en la carpeta bin y obj
+TpIntegrador_Programacion/ServiciosVet/obj/
+TpIntegrador_Programacion/TpIntegrador_Programacion/bin/
+TpIntegrador_Programacion/TpIntegrador_Programacion/obj/
+
+# Opcionalmente, también puedes ignorar todos los archivos .exe y .pdb si no quieres rastrear ninguno de estos archivos
+*.exe
+*.pdb
+
